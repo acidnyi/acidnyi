@@ -64,5 +64,5 @@ My company delivering AI-driven and modern web applications for businesses and c
 
 ---
 
-<sub>👁️ “Keep your goals sharp and your code sharper.”</sub>
+![Makima](https://img.shields.io/badge/-Makima-BA0000?logo=githubsponsors&logoColor=white)
 ****
