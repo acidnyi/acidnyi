@@ -63,6 +63,4 @@ My company delivering AI-driven and modern web applications for businesses and c
 - 💼 **LinkedIn:** [Serhii Kuklych](https://www.linkedin.com/in/serhii-kuklych-a84041255/)  
 
 ---
-
-![Makima](https://img.shields.io/badge/-Makima-BA0000?logo=githubsponsors&logoColor=white)
 ****
