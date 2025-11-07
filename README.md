@@ -62,5 +62,4 @@ My company delivering AI-driven and modern web applications for businesses and c
 - ✉️ **Email:** [serhiikuklych@gmail.com](mailto:serhiikuklych@gmail.com)  
 - 💼 **LinkedIn:** [Serhii Kuklych](https://www.linkedin.com/in/serhii-kuklych-a84041255/)  
 
----
 ****
